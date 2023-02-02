@@ -1,4 +1,4 @@
 # Salon Appointment Scheduler
 
-##interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
+## interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
 
